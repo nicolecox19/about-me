@@ -1,0 +1,20 @@
+h1{
+  font-size: 5px;
+  line-height: 50px;
+  margin: 10px;
+  border: 4px;
+  padding: 3px;
+}
+blockquote{
+  text-align: center;
+  margin: 12px;
+  border: 2px light pink;
+  padding: 3px;
+  background-color: beige;
+}
+h2{
+  color: pink;
+  text-align: center;
+  font-style: italic;
+
+}
