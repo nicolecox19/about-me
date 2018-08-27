@@ -8,7 +8,8 @@ body {
 	color: #555753;
 	background: #fff url(http://csszengarden.com/001/blossoms.jpg) no-repeat bottom right;
 	margin: 0;
-	padding: 0;
+	border: 5xp 0 5px 0;
+	padding: 5px;
 	}
 p {
 	margin-top: 0;
@@ -25,8 +26,8 @@ p {
     text-align: center;
     margin: 5px;
     border: 5px light pink;
-    padding: 5px;
-    background-color: beige;
+    padding: 15px;
+    background-color: clear;
   }
 
   a{
@@ -40,7 +41,7 @@ p {
   h2{
     color: pink;
     margin: 5px;
-    border: 5px;
+    border: 5px 0 5px 0;
     padding: 5px;
     text-align: center;
     font-style: normal;
@@ -55,7 +56,7 @@ h3 {
 a:link {
 	font-weight: bold;
 	text-decoration: none;
-	color: #B7A5DF;
+	color: #B7A5DFs;
 	}
 a:visited {
 	font-weight: bold;
